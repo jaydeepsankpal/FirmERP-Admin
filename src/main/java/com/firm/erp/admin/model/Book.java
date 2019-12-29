@@ -1,4 +1,4 @@
-package com.firm.erp.admin;
+package com.firm.erp.admin.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
