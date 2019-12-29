@@ -1,5 +1,7 @@
-package com.mkyong;
+package com.firm.erp.admin;
 
+import com.firm.erp.admin.model.Book;
+import com.firm.erp.admin.repository.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
