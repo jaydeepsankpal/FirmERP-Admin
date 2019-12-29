@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.firm.erp.admin;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

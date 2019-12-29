@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.firm.erp.admin;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

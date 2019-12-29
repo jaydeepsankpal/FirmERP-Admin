@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.firm.erp.admin.error;
 
 import java.util.Set;
 

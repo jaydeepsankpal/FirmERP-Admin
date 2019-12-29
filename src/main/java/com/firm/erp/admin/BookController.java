@@ -1,7 +1,7 @@
-package com.mkyong;
+package com.firm.erp.admin;
 
-import com.mkyong.error.BookNotFoundException;
-import com.mkyong.error.BookUnSupportedFieldPatchException;
+import com.firm.erp.admin.error.BookUnSupportedFieldPatchException;
+import com.firm.erp.admin.error.BookNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.util.StringUtils;
